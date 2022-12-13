@@ -1,4 +1,7 @@
 
+.app{
+text-align: center;
+}
 
 .App-content {
   background-color: #282c34;
@@ -11,4 +14,7 @@
   color: white;
 }
 
+button{
+  height: 50px;
+}
 
