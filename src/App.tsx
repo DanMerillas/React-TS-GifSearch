@@ -7,7 +7,7 @@ const GIFTS = ['https://media4.giphy.com/media/jG8MGvlv2SjYhEa32n/giphy.gif?cid=
 const DIFERENT_GIF =['https://media4.giphy.com/media/fQGBjfGl29jY3jTx0J/giphy.gif?cid=ecf05e47v4f0fkp6yft9p0ec9eo34n32ktvlld45eoajvktd&rid=giphy.gif&ct=g'];
 
 function App() {
-  const [gifs, setGifs] = useState(GIFTS)
+  const [gifs, setGifs] = useState(GIFTS);
 
   useEffect(function(){
     console.log('incializa');
