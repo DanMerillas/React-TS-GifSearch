@@ -10,7 +10,7 @@ function App() {
   const [gifs, setGifs] = useState(GIFTS)
 
   useEffect(function(){
-    
+    console.log('incializa');
   },[])
 
   return (
