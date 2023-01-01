@@ -19,7 +19,7 @@ function App() {
         {
           gifs.map(singleGif => <img alt="" src={singleGif} />)
         }
-        <button onClick={()=>setGifs(DIFERENT_GIF)}>Cambiar gif2</button>
+        <button onClick={()=>setGifs(DIFERENT_GIF)}>Cambiar gif2.</button>
       </section>
     </div>
   );
