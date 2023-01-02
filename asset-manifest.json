@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/React-TS-GifSearch/static/css/main.18e3baa6.css",
-    "main.js": "/React-TS-GifSearch/static/js/main.2a2ccd95.js",
-    "static/js/787.14a4e509.chunk.js": "/React-TS-GifSearch/static/js/787.14a4e509.chunk.js",
+    "main.css": "/React-TS-GifSearch/static/css/main.b7a8f594.css",
+    "main.js": "/React-TS-GifSearch/static/js/main.97365142.js",
     "index.html": "/React-TS-GifSearch/index.html",
-    "main.18e3baa6.css.map": "/React-TS-GifSearch/static/css/main.18e3baa6.css.map",
-    "main.2a2ccd95.js.map": "/React-TS-GifSearch/static/js/main.2a2ccd95.js.map",
-    "787.14a4e509.chunk.js.map": "/React-TS-GifSearch/static/js/787.14a4e509.chunk.js.map"
+    "main.b7a8f594.css.map": "/React-TS-GifSearch/static/css/main.b7a8f594.css.map",
+    "main.97365142.js.map": "/React-TS-GifSearch/static/js/main.97365142.js.map"
   },
   "entrypoints": [
-    "static/css/main.18e3baa6.css",
-    "static/js/main.2a2ccd95.js"
+    "static/css/main.b7a8f594.css",
+    "static/js/main.97365142.js"
   ]
 }
